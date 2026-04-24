@@ -13,7 +13,7 @@
 
 高価なハイスペックPCは不要。Chromebookとクラウドの知恵があれば、個人でも高度な気象観測所を運用できることを証明します。
 
-
+![システム図解](./weather-observation.png)
 
 ## 🛠️ TECH STACK
 - **Backend/DB**: Google Apps Script / Google Spreadsheet
